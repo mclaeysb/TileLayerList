@@ -7,10 +7,22 @@
 
 OpenStreetMap	© OpenStreetMap contributors	http://tile.openstreetmap.org/{z}/{x}/{y}.png	1	0	19				
 # OpenStreetMap Carto (Standard layer)	© OpenStreetMap contributors, CC-BY-SA	https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
-Mapbox Satellite	© Mapbox	http://a.tiles.mapbox.com/v4/openstreetmap.map-inh7ifmo/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Streets	© Mapbox	http://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Light	© Mapbox	http://api.mapbox.com/v4/mapbox.light/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Dark	© Mapbox	http://api.mapbox.com/v4/mapbox.dark/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Satellite	© Mapbox	http://api.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Satellite OSM	© Mapbox	http://a.tiles.mapbox.com/v4/openstreetmap.map-inh7ifmo/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Streets-Satellite	© Mapbox	http://api.mapbox.com/v4/mapbox.streets-satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Streets-Basic	© Mapbox	http://api.mapbox.com/v4/mapbox.streets-basic/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox Outdoors	© Mapbox	http://api.mapbox.com/v4/mapbox.outdoors/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
+Mapbox run-bike-hike	© Mapbox	http://api.mapbox.com/v4/mapbox.run-bike-hike/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJncjlmd0t3In0.DmZsIeOW-3x-C5eX-wAqTw
 HDM (Humanitarian OpenStreetMap Team)	© OpenStreetMap contributors, tiles courtesy of Humanitarian OpenStreetMap Team	http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
 Hike and Bike	© OpenStreetMap contributors, CC-BY-SA	http://a.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png
+Stamen Toner	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/toner/{z}/{x}/{y}.png
+Stamen Toner Background	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/toner-background/{z}/{x}/{y}.png
 Stamen Toner Light	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png
 Stamen Terrain	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png
+Stamen Terrain Lines	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/terrain-lines/{z}/{x}/{y}.png
+Stamen Terrain Background	Map tiles by Stamen Design CC BY 3.0, Map data OpenStreetMap	http://stamen-tiles-a.a.ssl.fastly.net/terrain-background/{z}/{x}/{y}.png
 CartoDB Positron	©OSM, ©CartoDB	http://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
 CartoDB Positron No Labels	©OSM, ©CartoDB	http://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png
